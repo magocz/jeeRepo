@@ -1,0 +1,11 @@
+html {
+  text-align: center;
+}
+
+#menu {
+    position: fixed;
+   
+	margin: 0 auto;
+    background-color: fuchsia
+ 
+}
